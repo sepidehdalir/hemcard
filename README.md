@@ -14,6 +14,14 @@ HemCard turns seller-entered clothing measurements into a consistent photo card 
 
 The sample photograph is original generated imagery. Values are illustrative entries, not measurements inferred from the image.
 
+## The campaign
+
+<img src="assets/phone-01.png" width="230" alt="Finished card campaign"> <img src="assets/phone-02.png" width="230" alt="Manual entry campaign"> <img src="assets/phone-03.png" width="230" alt="Matching card and text campaign">
+
+<img src="assets/ipad-02.png" width="480" alt="Actual side-by-side iPad editor and preview"> <img src="assets/ipad-05.png" width="480" alt="Actual selected-card batch workflow">
+
+[Full iPhone campaign](assets/phone-campaign.png) · [Dedicated iPad campaign](assets/ipad-campaign.png)
+
 ## The product
 
 Select a garment photo, enter your own tape measurements, choose centimeters or inches, inspect the card, then export its image/text files or copy the listing text. Flat widths are explicitly labeled. Blank fields stay off the card.
@@ -32,7 +40,7 @@ HemCard does not measure from a camera, predict fit, guarantee accuracy, connect
 - StoreKit2 verified entitlements, transaction updates, restore, pending/cancel/error handling and data retention after revocation.
 - Collision-safe PNG/TXT batch output, per-card failure handling and native system sharing.
 
-Core numerical/persistence/rendering tests and local StoreKit outcomes passed on the iOS17 simulator. Small-phone and tablet UI testing, physical-device checks and release verification are tracked independently. iOS15 runtime is unavailable on the current host; deployment-target compilation does not claim an iOS15 runtime pass. TestFlight is skipped by publisher instruction. No remote-purchase or App Review success is implied.
+Core numerical/persistence/rendering tests and local StoreKit outcomes passed on the iOS17 simulator. Small-phone and tablet UI testing, physical-device checks and release verification are tracked independently. iOS15 runtime is unavailable on the current host; deployment-target compilation does not claim an iOS15 runtime pass. TestFlight is skipped by publisher instruction. Data Not Collected was published in App Store Connect with explicit owner approval. No remote-purchase or App Review success is implied.
 
 ## Privacy
 
@@ -40,6 +48,6 @@ No account, backend, tracking SDK, advertising or external AI service. Cards and
 
 ## Design and delivery
 
-Tailoring-inspired burgundy, warm ivory, serif typography, fine rules and a recognizable garment-tag icon. Dedicated phone/tablet marketing campaigns are in production using authentic app UI and actual exported cards. Commercial source is backed up separately in a private repository.
+Tailoring-inspired burgundy, warm ivory, serif typography, fine rules and a recognizable garment-tag icon. Dedicated five-frame phone and five-frame tablet campaigns were inspected as full-size exports and thumbnail grids. They use authentic app UI and actual exported cards. Commercial source is backed up separately in a private repository.
 
 Created by **Sepideh Javanbakht Dalir** · [arvinify.com](https://www.arvinify.com) · [hello@arvinify.com](mailto:hello@arvinify.com)
