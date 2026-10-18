@@ -6,7 +6,7 @@
 
 HemCard turns seller-entered clothing measurements into a consistent photo card and matching listing text. Built for clothing resellers who already measure by hand and want those details to travel together.
 
-**Status · October18,2026:** production development and release QA. App Store record accepted; not submitted or released. This page is a product/engineering showcase, not a download listing.
+**Status · October 18, 2026:** version 1.0 (1) passed Apple validation, uploaded and is staged with Lifetime Pro for review. Final genuine Sandbox verification is pending; not submitted or released. This page is a product/engineering showcase, not a download listing.
 
 [Product & support](https://sepidehdalir.github.io/hemcard/) · [Privacy](https://sepidehdalir.github.io/hemcard/privacy.html) · [iOS portfolio](https://github.com/sepidehdalir/ios-app-portfolio)
 
@@ -40,7 +40,7 @@ HemCard does not measure from a camera, predict fit, guarantee accuracy, connect
 - StoreKit2 verified entitlements, transaction updates, restore, pending/cancel/error handling and data retention after revocation.
 - Collision-safe PNG/TXT batch output, per-card failure handling and native system sharing.
 
-Core numerical/persistence/rendering tests and local StoreKit outcomes passed on the iOS17 simulator. Small-phone and tablet UI testing, physical-device checks and release verification are tracked independently. iOS15 runtime is unavailable on the current host; deployment-target compilation does not claim an iOS15 runtime pass. TestFlight is skipped by publisher instruction. Data Not Collected was published in App Store Connect with explicit owner approval. No remote-purchase or App Review success is implied.
+Core numerical/persistence/rendering tests and local StoreKit outcomes passed on the iOS17 simulator. Final small-phone and tablet UI workflows, native simulator photo selection/manual entry/persistence, and physical-device Files export/relaunch checks also passed. iOS15 runtime is unavailable on the current host; deployment-target compilation does not claim an iOS15 runtime pass. TestFlight is skipped by publisher instruction. Data Not Collected was published in App Store Connect with explicit owner approval. A remote product loaded on the physical device; genuine purchase/restore and App Review submission remain unverified.
 
 ## Privacy
 
