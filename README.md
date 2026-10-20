@@ -6,7 +6,7 @@
 
 HemCard turns seller-entered clothing measurements into a consistent photo card and matching listing text. Built for clothing resellers who already measure by hand and want those details to travel together.
 
-**Status · October 18, 2026:** version **1.0 (1)** and **Lifetime Pro** submitted together at **11:40 AM PDT**. Both are **Waiting for Review**. V1 is frozen; Apple approval and release are pending. This page is a product/engineering showcase, not a download listing.
+**Current status — October 19, 2026: HemCard app version is Rejected.** App Review recovery is in progress. No approval, public release or corrective resubmission is claimed. Prior submission and QA evidence remain historical; app-specific skipped checks remain skipped.
 
 [Product & support](https://sepidehdalir.github.io/hemcard/) · [Privacy](https://sepidehdalir.github.io/hemcard/privacy.html) · [iOS portfolio](https://github.com/sepidehdalir/ios-app-portfolio)
 
